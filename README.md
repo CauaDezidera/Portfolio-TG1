@@ -17,11 +17,11 @@ Profissionalmente, em 2024 iniciei meu primeiro estágio na área de Tecnologia 
 
 ### Meus Principais Conhecimentos
 
-- 🌐 **Desenvolvimento Web:** HTML, CSS 
-- 💻 **Linguagens de Programação:** Python, JavaScript, TypeScript
-- 🗃️ **Banco de Dados:** MySQL e Postgress
-- 🔧 **Ferramentas de Versionamento:** Git e GitHub  
-- 📈 **Metodologias Ágeis:** Scrum   
+- **Desenvolvimento Web:** HTML, CSS 
+- **Linguagens de Programação:** Python, JavaScript, TypeScript
+- **Banco de Dados:** MySQL e Postgress
+- **Ferramentas de Versionamento:** Git e GitHub  
+- **Metodologias Ágeis:** Scrum   
 
 
 ### Contatos
