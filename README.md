@@ -269,23 +269,19 @@ Atuei no desenvolvimento da interface mobile, sendo responsável pela criação 
 
 
 ## Hard Skills
-Desenvolvimento de interfaces web utilizando React, Next.js e TypeScript, com foco em funcionalidade e segurança — uso com autonomia.
+- Desenvolvimento de interfaces web utilizando React, Next.js e TypeScript, com foco em funcionalidade e segurança — uso com autonomia.
 
-Implementação de autenticação e gerenciamento de estados para garantir experiência fluida na tela de login — faço com autonomia.
+- Implementação de autenticação e gerenciamento de estados para garantir experiência fluida na tela de login — faço com autonomia.
 
-Estilização de componentes com TailwindCSS e DaisyUI, garantindo layouts responsivos e consistentes visualmente — uso com autonomia.
+- Estilização de componentes com TailwindCSS e DaisyUI, garantindo layouts responsivos e consistentes visualmente — uso com autonomia.
 
-Integração com APIs REST, realizando chamadas para criação, edição e exibição de dados, como solicitações e despesas — faço com autonomia.
+- Integração com APIs REST, realizando chamadas para criação, edição e exibição de dados, como solicitações e despesas — faço com autonomia.
 
-Manipulação e organização de dados no front-end, com foco em usabilidade e clareza na apresentação das informações — faço com autonomia.
-
-
+- Manipulação e organização de dados no front-end, com foco em usabilidade e clareza na apresentação das informações — faço com autonomia.
 
 
 ## Soft Skills 
 Durante o desenvolvimento do projeto, demonstrei capacidade de comunicação ao participar ativamente das reuniões da equipe, contribuindo com sugestões sobre a escolha do framework e decisões relacionadas à experiência visual da aplicação. Trabalhei de forma colaborativa com os demais integrantes do time, garantindo que a integração entre o front-end e a API ocorresse de maneira fluida, especialmente nas funcionalidades de login e edição de solicitações. Também exerci pensamento crítico e resolvi problemas relacionados à apresentação dinâmica de informações, propondo melhorias visuais e estruturais que tornaram a interface mais clara e funcional.
-
-
 
   
 </details>
