@@ -115,7 +115,7 @@ Neste projeto, atuei como integrante do Dev Team no desenvolvimento da aplicaç�
 
 
 ## Soft Skills 
-Durante o desenvolvimento do projeto, desenvolvi habilidades sólidas de trabalho em equipe, colaborando de forma eficiente com outros membros do Dev Team para alcançar os objetivos do produto. Participando de reuniões diárias, planejamento e revisões, propondo sempre uma estética simplificada e organizada, com relação aos pritótipos criados, em que o usuário ficaria confortável em utilizar e que se integrasse de forma coerente com a tela de login em que realizei. Além disso, mantive o foco na entrega de soluções que integram usabilidade e estética, sempre considerando o feedback do time para melhorar a experiência do usuário final.
+Durante o desenvolvimento do projeto, desenvolvi habilidades sólidas de trabalho em equipe, colaborando de forma eficiente com outros membros do Dev Team para alcançar os objetivos do produto. Participando de reuniões diárias, planejamento e revisões, propondo sempre uma estética simplificada e organizada, com relação aos protótipos criados, em que o usuário ficaria confortável em utilizar e que se integrasse de forma coerente com a tela de login em que realizei. Além disso, mantive o foco na entrega de soluções que integram usabilidade e estética, sempre considerando o feedback do time para melhorar a experiência do usuário final.
 
 </details>
 
