@@ -196,64 +196,94 @@ Para resolver os problemas operacionais da JJM Log, desenvolvemos a plataforma w
 
 
 ### Tecnologias Utilizadas
-
-
+| **Tecnologias**       | **Finalidade Principal**                                                                 |
+|----------------------|------------------------------------------------------------------------------------    |
+| **React + Next.js**  | Desenvolvimento da interface web com navegação otimizada e SSR para desempenho.
+| **NestJS (Node.js)** | Back-end com APIs REST, responsável pela lógica do sistema e acesso ao banco. |
+| **TypeScript**       | Tipagem estática para maior segurança e organização no front-end e back-end.      |
+| **PostgreSQL**       | Banco de dados relacional para armazenamento estruturado das informações.             |
+| **Docker**           | Criação de containers para padronizar o ambiente e facilitar o deploy da aplicação.|
+| **Swagger**          | Documentação e testes das rotas da API de forma interativa e acessível. 
 
 
 
 
 ## Minhas Contribuições 
-
+Neste projeto, atuei no time de desenvolvimento, sendo responsável pela implementação visual de componentes da dashboard, com foco na apresentação clara e organizada dos dados. Contribuí diretamente para a criação de uma interface responsiva, garantindo que a aplicação se adaptasse adequadamente a diferentes dispositivos e tamanhos de tela, mantendo a usabilidade e estética. Trabalhei na harmonização visual dos elementos, alinhando a identidade visual do sistema com os princípios de design intuitivo e experiência do usuário. Também fui responsável pela integração com a API nos componentes da dashboard, realizando chamadas para busca e exibição das tarefas em atraso e do custo total das tarefas, apresentando essas informações de forma estruturada e funcional na interface.
 
 
 ## Hard Skills
+- Desenvolvimento de interfaces web com React, Next.js e TypeScript – uso com autonomia.
 
+- Estilização com TailwindCSS e DaisyUI para criação de layouts responsivos, usáveis e visualmente consistentes – uso com autonomia
 
+- Integração com APIs REST para busca e exibição de dados na dashboard – faço com autonomia.
+
+- Manipulação e apresentação de dados no Front-End, com foco em filtros, organização e exibição eficiente das informações – faço com autonomia.
 
 
 ## Soft Skills 
+Durante o desenvolvimento da aplicação, exerci uma comunicação clara e colaborativa com o time, contribuindo ativamente nas decisões visuais e funcionais da interface. Trabalhei com responsabilidade no cumprimento dos prazos, adaptando-me às mudanças e priorizando a qualidade da entrega. Demonstrei proatividade ao propor melhorias na responsividade da dashboard. Além disso, exerci opiniões sobre os frameworks utilizadas ao decorrer do projeto, onde tivemos nosso primeiro contato com o TailwindCSS e DaisyUI. participei ativamente das cerimônias da metodologia Scrum, alinhando constantemente as tarefas do time e garantindo que os objetivos técnicos e visuais fossem atingidos com eficiência.
 
 
-
-  
 </details>
 
 
+
+
+
+
 <details>
-<summary> API Quinto Semestre </summary>
+<summary> API Quinto Semestre - RefundMe </summary>
 
-### Empresa Parceira - 
+### Empresa Parceira - GSW
 
-- **Professor P2** - 
-- **Professor M2** - 
+- **Professor P2** - Gerson da Penha Neto
+- **Professor M2** - Ronaldo Emerick Santos
 
 ### Problema 
+A gestão de reembolsos em empresas que atuam com projetos e equipes externas costuma ser um desafio, ainda mais quando o controle de gastos, limites por projeto e processos de aprovação são feitos manualmente. Essa falta de centralização e automação tende a causar lentidão nas solicitações, aumento nos erros operacionais e maior esforço para funcionários e gestores lidarem com as demandas do dia a dia.
 
 
 
 ### Solução
+Como solução, desenvolvemos o RefundMe, uma plataforma web completa que automatiza todo o processo de solicitação e aprovação de reembolsos. O sistema permite que os funcionários registrem suas despesas com facilidade, anexem comprovantes e acompanhem o andamento das solicitações em tempo real. Pelo painel administrativo, gestores podem aprovar ou rejeitar pedidos, organizar despesas por projeto e gerenciar usuários e centros de custo de forma centralizada. A arquitetura do sistema foi construída com foco em escalabilidade e segurança, utilizando uma API desenvolvida em NestJS com autenticação e integração com serviços de armazenamento em nuvem, garantindo uma experiência eficiente tanto para os usuários operacionais quanto para a equipe administrativa.
 
 
-[**Link do GitHub**]()
+[**Link do GitHub**](https://github.com/C0demain/refundme)
 
 
 ### Tecnologias Utilizadas
-
-
-
-
+| Tecnologias             | Finalidade Principal                                                                                |
+|-----------------------|---------------------------------------------------------------------------------------------------|
+| **Next.js + React**     | Construção da interface web administrativa, permitindo gerenciamento do sistema pelos gestores.    |
+| **NestJS + TypeScript** | Desenvolvimento do backend com APIs REST, implementando autenticação, regras de negócio e integração com banco de dados. |
+| **React Native + Expo** | Desenvolvimento do aplicativo móvel para os funcionários, garantindo acesso prático às funcionalidades. |
+| **MongoDB + Mongoose**  | Banco de dados NoSQL utilizado para armazenamento flexível dos dados, gerenciado via MongoDB Atlas. |
+| **Postman + Swagger**   | Ferramentas utilizadas para testes, validação e documentação clara das rotas da API.              |
+| **AWS S3 e EC2**        | Serviços em nuvem para armazenamento seguro dos comprovantes e hospedagem escalável da API.       |
 
 
 ## Minhas Contribuições 
-
+Atuei no desenvolvimento da interface mobile, sendo responsável pela criação e autenticação da tela de login, garantindo segurança e facilidade de uso para os usuários. Também desenvolvi funcionalidades para edição das solicitações de reembolso, possibilitando alterações eficientes e intuitivas como, seu status, nome e descrição. Além disso, implementei o cadastro de despesas do tipo combustível, integrando essa funcionalidade ao sistema de forma prática e organizada. Em todas as etapas, trabalhei na integração com a API NestJS para assegurar a comunicação estável entre frontend e backend, além de aplicar cuidados de usabilidade para oferecer uma experiência fluida.
 
 
 ## Hard Skills
+Desenvolvimento de interfaces web utilizando React, Next.js e TypeScript, com foco em funcionalidade e segurança — uso com autonomia.
+
+Implementação de autenticação e gerenciamento de estados para garantir experiência fluida na tela de login — faço com autonomia.
+
+Estilização de componentes com TailwindCSS e DaisyUI, garantindo layouts responsivos e consistentes visualmente — uso com autonomia.
+
+Integração com APIs REST, realizando chamadas para criação, edição e exibição de dados, como solicitações e despesas — faço com autonomia.
+
+Manipulação e organização de dados no front-end, com foco em usabilidade e clareza na apresentação das informações — faço com autonomia.
 
 
 
 
 ## Soft Skills 
+Durante o desenvolvimento do projeto, demonstrei capacidade de comunicação ao participar ativamente das reuniões da equipe, contribuindo com sugestões sobre a escolha do framework e decisões relacionadas à experiência visual da aplicação. Trabalhei de forma colaborativa com os demais integrantes do time, garantindo que a integração entre o front-end e a API ocorresse de maneira fluida, especialmente nas funcionalidades de login e edição de solicitações. Também exerci pensamento crítico e resolvi problemas relacionados à apresentação dinâmica de informações, propondo melhorias visuais e estruturais que tornaram a interface mais clara e funcional.
 
 
 
