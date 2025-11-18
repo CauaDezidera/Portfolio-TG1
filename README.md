@@ -58,10 +58,10 @@ Com o objetivo de solucionar essa dificuldade, foi criado um sistema web interat
 
 
 ## Tecnologias Utilizadas  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Backend:** Python, Flask  
-- **Ferramentas:** Trello, Figma, VS Code, Canva
-- **Documentação:** GitHub  
+- **HTML**: Linguagem usada para montar a estrutura das páginas na web, definindo a organização semântica dos componentes exibidos ao usuário.
+- **CSS**: Tecnologia encarregada de aplicar estilos às páginas, possibilitando a personalização visual e alinhando o design à identidade do projeto.
+- **Python**: Empregado na implementação da lógica de negócio e na definição das rotas do backend em conjunto com o Flask, para o desenvolvimento do questionário.
+- **Bootstrap**: Framework adotado para utilização de componentes responsivos e estilos pré-definidos, facilitando a construção da interface.
 
 ## Minhas Contribuições  
 Neste projeto atuei como Dev Team no desenvolvimento da aplicação web utilizando **HTML, CSS e Bootstrap** para o FrontEnd, resultando em uma aplicação responsível para diversos dispositivos. Fui responsável como desenvolvedor FrontEnd no projeto e responsável por realizar protótipos no Figma, desenvolver a página de Artefatos da metodologia Scrum, junto de seus componentes, harmonização e responsividade da página.
@@ -73,7 +73,7 @@ Neste projeto atuei como Dev Team no desenvolvimento da aplicação web utilizan
 - Organização e gerenciamento de tarefas com **Trello**  - Uso com autonomia
 
 ## Soft Skills  
-Durante esse projeto aprendi muito com a Metodologia Scrum e como ela auxilia no trabalho em equipe, como as divisões de cargo e tarefas durante o processo de desenvolvimento. Também aprendi muito sobre comunicação e trabalho em equipe tanto com meus colegas de grupo, quanto com os professores orientadores, o que serviu de grande ajuda para um ótimo aprendizado.
+Durante esse projeto melhorei muito meu aprendizado com a Metodologia Scrum e como ela auxilia no trabalho em equipe, como as divisões de cargo e tarefas durante o processo de desenvolvimento. Também aprendi muito sobre comunicação e trabalho em equipe tanto com meus colegas de grupo, quanto com os professores orientadores. Durante esse processo me comuniquei com a equipe sugerindo melhores posicionamentos nos cards sobre a metodologia Scrum e sobre o dimensionamento das páginas, para obter componentes mais padronizados, tendo como argumento uma melhor experiência para o usuário.
 
 </details>
 
@@ -115,7 +115,7 @@ Neste projeto, atuei como integrante do Dev Team no desenvolvimento da aplicaç�
 
 
 ## Soft Skills 
-Durante o desenvolvimento do projeto, desenvolvi habilidades sólidas de trabalho em equipe, colaborando de forma eficiente com outros membros do Dev Team para alcançar os objetivos do produto. Participando de reuniões diárias, planejamento e revisões, propondo sempre uma estética simplificada e organizada, com relação aos protótipos criados, em que o usuário ficaria confortável em utilizar e que se integrasse de forma coerente com a tela de login em que realizei. Além disso, mantive o foco na entrega de soluções que integram usabilidade e estética, sempre considerando o feedback do time para melhorar a experiência do usuário final.
+Durante o desenvolvimento do projeto, desenvolvi habilidades sólidas de trabalho em equipe, colaborando de forma eficiente com outros membros do Dev Team para alcançar os objetivos do produto. Neste projeto eu propus para a equipe uma tela de login mais simplificada e com componentes visualmente mais harmônicos, que tivessem mais similaridade com o restante da aplicação, e somente a utilização de informações relevantes para a autentificação. Assim a comunicação acabou sendo essencial para o alinhamento visual do projeto.
 
 </details>
 
@@ -125,7 +125,8 @@ Durante o desenvolvimento do projeto, desenvolvi habilidades sólidas de trabalh
 <details>
 <summary>  API Terceiro Semestre - Sales Dash </summary>
 
-### Empresa Parceira - Pro4Tech
+### Empresa Parceira - Pro4Tech 
+- Empresa de consultoria e desenvolvimento de software
 
 - **Professor P2** - Fernando Masanori Ashikaga
 - **Professor M2** - Claudio Etelvino de Lima 
@@ -154,7 +155,7 @@ Para solucionar este problema, desenvolvemos o Sales Dash, uma plataforma web qu
 
 
 ## Minhas Contribuições 
-Neste projeto, atuei como Product Owner, sendo responsável por organizar e conduzir as Sprints com foco nas prioridades do cliente. Realizei a ponte entre a equipe de desenvolvimento e o cliente, traduzindo suas demandas em requisitos técnicos claros e viáveis. Acompanhei de perto o progresso das tarefas utilizando o Trello, ajustando prazos e prioridades de forma estratégica conforme surgiam novas necessidades. Além disso, participei ativamente da validação das entregas, garantindo que o produto final atendesse aos objetivos propostos. Também facilitei a comunicação entre todos os envolvidos, conduzindo reuniões semanais com o cliente para alinhar expectativas e promover decisões colaborativas ao longo do desenvolvimento.
+Neste projeto, atuei como Product Owner, sendo responsável por organizar e conduzir as Sprints com foco nas prioridades do cliente. Realizei a ponte entre a equipe de desenvolvimento e o cliente, traduzindo suas demandas em requisitos técnicos claros e viáveis. Acompanhei de perto o progresso das tarefas utilizando o Trello. Além disso, participei ativamente da validação das entregas, garantindo que o produto final atendesse aos objetivos propostos. Também facilitei a comunicação entre todos os envolvidos, para alinhar expectativas e promover decisões colaborativas ao longo do desenvolvimento. 
 
 
 ## Hard Skills
@@ -169,7 +170,7 @@ Neste projeto, atuei como Product Owner, sendo responsável por organizar e cond
 
 
 ## Soft Skills 
-Ao longo do projeto, desenvolvi e exercitei diversas soft skills essenciais para o papel de Product Owner. A comunicação assertiva foi fundamental para garantir o alinhamento entre cliente e equipe, promovendo entendimento mútuo e tomadas de decisão eficazes. A liderança colaborativa me permitiu organizar e conduzir reuniões produtivas, mantendo o foco nas prioridades e metas do projeto. A capacidade de escuta ativa e empatia contribuiu para transformar feedbacks em melhorias reais no produto. Além disso, demonstrei proatividade na organização das sprints e resiliência para lidar com imprevistos, mantendo o time engajado e o progresso constante. Essas habilidades foram determinantes para o bom andamento do projeto e para a entrega de um resultado alinhado às expectativas do cliente.
+Ao longo do projeto, desenvolvi e exercitei diversas soft skills essenciais para o papel de Product Owner. A comunicação assertiva foi fundamental para garantir o alinhamento entre cliente e equipe, promovendo entendimento mútuo. A liderança colaborativa me permitiu organizar e conduzir reuniões produtivas. Neste projeto, após me comunicar com o cliente parceiro, tive que utilizar de minha organização para reestrutar algumas tarefas no Backlog e alinhar o escopo do projeto, já que algumas funções que estávamos realizando não seriam realmente necessárias para o produto final, assim utilizei da minha liderança como P.O e me comuniquei com a equipe sobre as devidas mudanças.
 
 </details>
 
@@ -180,7 +181,7 @@ Ao longo do projeto, desenvolvi e exercitei diversas soft skills essenciais para
 <summary> API Quarto Semestre -  Logflow </summary>
   
 ### Empresa Parceira - JJM Log
-
+- Empresa especializada em logística e transportes
 - **Professor P2** - Juliana Forin Pasquini Martinez
 - **Professor M2** - Fabiano Sabha Walczak
 
@@ -223,7 +224,7 @@ Neste projeto, atuei no time de desenvolvimento, sendo responsável pela impleme
 
 
 ## Soft Skills 
-Durante o desenvolvimento da aplicação, exerci uma comunicação clara e colaborativa com o time, contribuindo ativamente nas decisões visuais e funcionais da interface. Trabalhei com responsabilidade no cumprimento dos prazos, adaptando-me às mudanças e priorizando a qualidade da entrega. Demonstrei proatividade ao propor melhorias na responsividade da dashboard. Além disso, exerci opiniões sobre os frameworks utilizadas ao decorrer do projeto, onde tivemos nosso primeiro contato com o TailwindCSS e DaisyUI. participei ativamente das cerimônias da metodologia Scrum, alinhando constantemente as tarefas do time e garantindo que os objetivos técnicos e visuais fossem atingidos com eficiência.
+Durante o desenvolvimento da aplicação, exerci uma comunicação clara e colaborativa com o time, contribuindo ativamente nas decisões visuais e funcionais da interface. Além disso, exerci opiniões sobre os frameworks utilizadas ao decorrer do projeto, onde tivemos nosso primeiro contato com o TailwindCSS e DaisyUI. Neste projeto propus para a equipe uma melhor usabilidade estética dos componentes, para uma melhor visualização das informações junto de seus devidos gráficos, dessa forma chegamos em um acordo e assim podemos criar um layuot agradável, além do autoaprendizado e adaptação devido as novas tecnologias utilizadas.
 
 
 </details>
@@ -237,7 +238,7 @@ Durante o desenvolvimento da aplicação, exerci uma comunicação clara e colab
 <summary> API Quinto Semestre - RefundMe </summary>
 
 ### Empresa Parceira - GSW
-
+- Empresa especializada em desenvolvimento de software e soluções corporativas
 - **Professor P2** - Gerson da Penha Neto
 - **Professor M2** - Ronaldo Emerick Santos
 
@@ -281,8 +282,71 @@ Atuei no desenvolvimento da interface mobile, sendo responsável pela criação 
 
 
 ## Soft Skills 
-Durante o desenvolvimento do projeto, demonstrei capacidade de comunicação ao participar ativamente das reuniões da equipe, contribuindo com sugestões sobre a escolha do framework e decisões relacionadas à experiência visual da aplicação. Trabalhei de forma colaborativa com os demais integrantes do time, garantindo que a integração entre o front-end e a API ocorresse de maneira fluida, especialmente nas funcionalidades de login e edição de solicitações. Também exerci pensamento crítico e resolvi problemas relacionados à apresentação dinâmica de informações, propondo melhorias visuais e estruturais que tornaram a interface mais clara e funcional.
+Neste projeto contribui para a tomada de decisão do framework utilizado no projeto, além de ajudar e instruir membros da equipe com o funcionamento do aplicativo no emulador utilizado para o desenvolvimento mobile, que geralmente apresentava erros ao inicializar. Também tive que usufruir do autoaprendizado e adaptação no estudo do desenvolvimento mobile, em que ainda não havia tido experiência.
 
   
 </details>
+
+
+
+
+<details>
+<summary> API Sexto Semestre - NutriXpert </summary>
+
+### Empresa Parceira - Xertica.ai
+- Empresa especializada em desenvolvimento de software e soluções integradas com inteligencia artificial
+- **Professor P2** - Walmir
+- **Professor M2** - Claudio
+  
+### Problema 
+Os pacientes atendidos por um nutricionista associado à empresa Xertica.ai tinham dificuldades para manter uma alimentação regular, careciam de orientações práticas e individualizadas e ainda enfrentavam um grande volume de informações divergentes sobre nutrição, o que gerava dúvidas nas escolhas do dia a dia. Além disso, não existia uma ferramenta capaz de oferecer acompanhamento nutricional contínuo, inteligente e de fácil acesso.
+
+
+### Solução
+Para solucionar este tipo de problema, criamos o NutriXpert, um assistente nutricional inteligente desenvolvido com a tecnologia do Google Gemini, criado para oferecer acompanhamento personalizado em nutrição. O sistema conversa de forma fluida com o usuário, reunindo dados sobre saúde, rotina alimentar, possíveis restrições e objetivos desejados.
+Ele possui recursos para preencher anamnese, elaborar dietas completas adaptadas ao perfil de cada pessoa, ajustar planos alimentares conforme o consumo semanal informado, calcular macronutrientes e gerar automaticamente resumos e análises sobre o progresso do paciente.
+O projeto foi estruturado em três repositórios separados — agent, backend e frontend — adotando uma arquitetura moderna, modular e independente.
+
+
+
+[**Link do GitHub**](https://github.com/C0demain/nutriXpert)
+
+
+
+### Tecnologias Utilizadas
+| Tecnologias     | Finalidade Principal                                                                                                                           |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Python**      | Base do desenvolvimento do agente conversacional, responsável por interpretar as mensagens do usuário e executar a lógica das interações.      |
+| **FastAPI**     | Utilizado para construir a API do agente, permitindo respostas rápidas e comunicação eficiente com o backend.                                  |
+| **Java**        | Linguagem aplicada na camada de backend, implementando regras de negócio, autenticação e controle das operações do sistema.                    |
+| **Spring Boot** | Framework usado para estruturar a API REST principal, oferecendo segurança, escalabilidade e integração com o agente.                          |
+| **PostgreSQL**  | Banco de dados relacional empregado para armazenar informações de usuários, anamneses, refeições e históricos nutricionais.                    |
+| **Chroma DB**   | Banco vetorial utilizado pelo agente para buscar e armazenar contexto nutricional, permitindo respostas personalizadas via memória vetorizada. |
+| **LangChain**   | Framework responsável pela ingestão de documentos e processamento vetorial, habilitando buscas por similaridade no modelo RAG.                 |
+| **Google ADK**  | Ferramenta de orquestração utilizada para estruturar e gerenciar o comportamento do agente inteligente.                                        |
+| **Vue.js**      | Framework de frontend usado para criar uma interface dinâmica, moderna e responsiva para os usuários finais.                                   |
+
+
+
+## Minhas Contribuições 
+Como membro do Dev Team, atuei principalmente no frontend da aplicação. Fui responsável por arrumar bugs e erros de funcionamento de componentes, assim como a criação de componentes, como a página de perfil do paciente, que permite o paciente atualizar suas informações pessoais. A parte de feedbacks de respostas geradas pelo agente, que permite o paciente avaliar a resposta fornecida pelo agente no chat. A página de resumos semanais, que permite que o paciente acompanhe seus progressos semanais. Além de produzir um ambiente agradável e de fácil entendimento para a experiência do usuário.
+
+
+## Hard Skills
+
+- Vue.js: uso com autonomia
+- Python: consigo utilizar em projetos simples
+- Java: consigo utilizar em projetos simples
+- PostgreSQL: consigo utilizar em projetos simples
+- Spring Boot: consigo utilizar em projetos simples
+- FastAPI: consigo utilizar em projetos simples
+- Chroma DB: consigo utilizar em projetos simples
+
+
+## Soft Skills 
+Nesse projeto utilizei bastante de minha comunicação para alinhar minhas tarefas, onde conversei com os demais integrantes do grupo para integrar corretamente o frontend com as requisições e demandas do agente. Foi necessário também um autodesenvolvimento nos estudos sobre Inteligência Artificial e do escopo do produto, onde através disso propus mudanças em tarefas que não eram prioridade. Como também propus uma forma mais intuitiva do paciente realizar o feedback do agente.
+
+  
+</details>
+
 
