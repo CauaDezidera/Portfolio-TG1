@@ -7,7 +7,7 @@
 ##  Introdução
 
 ### Histórico Acadêmico
-Meu nome é **Cauã Nascimento Coelho Sbruzi Dezidera**, tenho 21 anos. Iniciei meus estudos na área de computação no ano de 2022, quando iniciei o curso de Ciências da Computação na UNIP, onde realizei o curso por 1 ano. Durante esse curso adquiri conhecimentos em HTML, CSS, Python, Direito na tecnologia, Matemática Aplicada, Desenvolvimento Mobile e trabalho em equipe. Com o objetivo de aumentar o meu aprendizado e conseguir maior destaque no mercado de trabalho, em 2023 ingressei na **FATEC-SJC** no curso de **Análise e Desenvolvimeto de Sistemas** e atualmente estou no 5º Semestre.
+Meu nome é **Cauã Nascimento Coelho Sbruzi Dezidera**, tenho 21 anos. Iniciei meus estudos na área de computação no ano de 2022, quando iniciei o curso de Ciências da Computação na UNIP, onde realizei o curso por 1 ano. Durante esse curso adquiri conhecimentos em HTML, CSS, Python, Direito na tecnologia, Matemática Aplicada, Desenvolvimento Mobile e trabalho em equipe. Com o objetivo de aumentar o meu aprendizado e conseguir maior destaque no mercado de trabalho, em 2023 ingressei na **FATEC-SJC** no curso de **Análise e Desenvolvimeto de Sistemas** e atualmente estou no 6º Semestre.
 
 
 
@@ -170,7 +170,7 @@ Neste projeto, atuei como Product Owner, sendo responsável por organizar e cond
 
 
 ## Soft Skills 
-Ao longo do projeto, desenvolvi e exercitei diversas soft skills essenciais para o papel de Product Owner. A comunicação assertiva foi fundamental para garantir o alinhamento entre cliente e equipe, promovendo entendimento mútuo. A liderança colaborativa me permitiu organizar e conduzir reuniões produtivas. Neste projeto, após me comunicar com o cliente parceiro, tive que utilizar de minha organização para reestrutar algumas tarefas no Backlog e alinhar o escopo do projeto, já que algumas funções que estávamos realizando não seriam realmente necessárias para o produto final, assim utilizei da minha liderança como P.O e me comuniquei com a equipe sobre as devidas mudanças.
+Ao longo do projeto, desenvolvi e exercitei diversas soft skills essenciais para o papel de Product Owner. A comunicação assertiva foi fundamental para garantir o alinhamento entre cliente e equipe, promovendo um entendimento mútuo. A liderança colaborativa me permitiu organizar e conduzir reuniões produtivas. Neste projeto, após me comunicar com o cliente parceiro, precisei utilizar minha organização para reestruturar algumas tarefas no backlog e alinhar o escopo do projeto, já que algumas funcionalidades que estávamos desenvolvendo não seriam realmente necessárias para o produto final. Assim, utilizei minha liderança como P.O. e me comuniquei com a equipe sobre as devidas mudanças.
 
 </details>
 
